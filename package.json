@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/twkirumba.lwc-multi-thumb-range-slider-fork-l2bdazyd",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve pcVXXqVfCvXrbxhxYC0z --open"
+  }
+}

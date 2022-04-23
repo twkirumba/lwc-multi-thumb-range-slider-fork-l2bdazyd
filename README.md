@@ -1,2 +1,3 @@
-# lwc-multi-thumb-range-slider-fork-l2bdazyd
-Demo of multi thumbs - start and end thumbs on acustom slider
+* Range Slider - multi thumb
+
+https://salesforce.stackexchange.com/questions/321169/lwc-multiple-handlers-range-slider
